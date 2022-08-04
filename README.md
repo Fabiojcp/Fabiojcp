@@ -119,9 +119,9 @@
       </a>
     </td>
     <td width="40%">
-      <p style="font-size:1.5rem">Kenzie Hub</p>
-      <p>Kenzie Hub é uma plataforma para DEV acompanhar seu desenvolvimetno em tecnologias e linguagens</p>
-      <p>Figma, Estilização, lógica foram todos desenvolvidos por mim para concluir o projeto final</p>
+      <p style="font-size:1.5rem">Nukenzie</p>
+      <p>O projeto NuKenzie é uma aplicação para controle financeiro</p>
+      <p>Com alta escalabilidade facilmente este projeto de estudo pode virar uma aplicação adicionando balanços de bolsas e cripto moedas</p>
       <p>Todo desenvolvido em react, inclui bibliotecas como Styled-Components, Axios, Router DOM, Framer Motion (animações), entre outros</p>
                 <a href="https://github.com/fabiojcp/react-entrega-s1-nu-kenzie-Fabiojcp" target="_blank">
             <img align="left" alt="Helpers Github" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/symbole-github-violet.png" />
