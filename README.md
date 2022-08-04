@@ -5,6 +5,7 @@
   <p>Atuo hoje como peer coach na Kenzie, desenvolvendo alunos em conteúdo HTML, JS, CSS e React</p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/fabiojcp/pics/main/code.gif" width="500" height="320" />
 </br>
+</br>
 ## Fale comigo:
 <a href="https://www.linkedin.com/in/f%C3%A1bio-casanova-baa818237/" target="_blank">
   <img align="left" alt="Fabio LinkedIN" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/linkedin.svg" />
