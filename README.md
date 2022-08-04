@@ -1,4 +1,6 @@
-### hey there 
+### hey there!
+
+## Fale comigo:
 <a href="https://www.linkedin.com/in/f%C3%A1bio-casanova-baa818237/" target="_blank">
   <img align="left" alt="Fabio LinkedIN" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/linkedin.svg" />
 </a>
@@ -9,18 +11,18 @@
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/Circle-icons-mail.svg.png" />
 </a>
 
+**languages and tools:**  
 
-<!--
-**fabiojcp/fabiojcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/HTML5.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/css-3-logo-1.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/material-ui.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/symbole-github-violet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/elixir.png"></code>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
