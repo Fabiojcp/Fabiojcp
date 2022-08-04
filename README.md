@@ -28,9 +28,12 @@
 </br>
 </br>
 
-## Tecnologias que trabalho: <img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/tumblr_nmzc9biHny1rhfekio1_500.gif">
+## Tecnologias que trabalho:
 <table style="background-color:#ffffff">
   <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/fabiojcp/pics/main/tumblr_nmzc9biHny1rhfekio1_500.gif">
+    </td>
     <td>
       <code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/HTML5.png"></code>
       <code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/css-3-logo-1.png"></code>
