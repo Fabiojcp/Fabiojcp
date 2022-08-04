@@ -10,7 +10,7 @@
 <a href="mailto:fabiojcp88@gmail.com">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/Circle-icons-mail.svg.png" />
 </a>
-
+</br>
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/HTML5.png"></code>
