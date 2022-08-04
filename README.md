@@ -54,7 +54,6 @@
 <table>
   <tr>
     <td width="10%">
-    entre outros</p>
           <a href="https://helpers-dun.vercel.app/" target="_blank">
       <img height="300" src="https://raw.githubusercontent.com/fabiojcp/pics/main/projects/Helpers.jpeg">
       </a>
