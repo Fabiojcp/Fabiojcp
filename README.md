@@ -1,11 +1,15 @@
 ## hey there!
   <table>
-       <tr>
+    <tr>
+      <td>
           <p>Sou Fábio, um programador apaixonado por dados e solucionar problemas, atualmente buscando uma oportunidade na área.</p>
           <p> Sou formado em front-end com um curso na Kenzie Academy Brasil de 1.000 horas, e fazendo o curso de back-end na mesma escola</p>
           <p>Atuo hoje como peer coach na Kenzie, desenvolvendo alunos em conteúdo HTML, JS, CSS e React</p>
-        </tr>
+      </td>
+      <td>
     <img alt="GIF" src="https://raw.githubusercontent.com/fabiojcp/pics/main/code.gif" width="500" height="320" />
+      </td>
+    </tr>
   </table>
 </br>
 </br>
