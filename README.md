@@ -29,7 +29,7 @@
 </br>
 
 ## Tecnologias que trabalho:
-<table backgroundColor="#ffffff" align="center">
+<table class="tech">
   <tr>
     <td>
       <code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/HTML5.png"></code>
@@ -48,4 +48,8 @@
     </td>
    </tr>
 </table>
-
+<style>
+  .tech {
+  backgroud-color: #ffffff;
+  }
+ </style>
