@@ -1,5 +1,5 @@
 ## hey there!
-  <div style={"display:flex;flex-direction:row;"}
+  <div style={"display:flex;flex-direction:row;"}>
        <div>
           <p>Sou Fábio, um programador apaixonado por dados e solucionar problemas, atualmente buscando uma oportunidade na área.</p>
           <p> Sou formado em front-end com um curso na Kenzie Academy Brasil de 1.000 horas, e fazendo o curso de back-end na mesma escola</p>
