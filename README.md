@@ -2,9 +2,9 @@
   <table>
     <tr>
       <td>
-          <p>Sou Fábio, um programador apaixonado por dados e solucionar problemas, atualmente buscando uma oportunidade na área.</p>
-          <p> Sou formado em front-end com um curso na Kenzie Academy Brasil de 1.000 horas, e fazendo o curso de back-end na mesma escola</p>
-          <p>Atuo hoje como peer coach na Kenzie, desenvolvendo alunos em conteúdo HTML, JS, CSS e React</p>
+          <p>Olá, tudo bem ? espero que sim. Bem Vindo(a) ao meu Perfil do GitHub, me chamo Fábio, um programador apaixonado por dados e solucionar problemas, atualmente estou buscando  por oportunidades na área da tecnologia.</p>
+          <p>Sou formado em Front-End pela Kenzie Academy Brasil, onde através de um curso de mais de 1.000 horas pude  desenvolver  tanto as Hard/Soft Skills que são  requisitadas pelo mercado de trabalho, atualmente estou dando continuidado nos meus estudos na mesma instituição, mas agora focado no Back-End.</p>
+          <p>Atuo hoje como Monitor na Kenzie, onde ajudo desenvolvedores de outras turmas a desenvolver da  melhor forma suas habilidades. sendo o foco  em HTML, JS, CSS e React.js.</p>
   </br>
           <p>Fale comigo:</p>
           <a href="https://www.linkedin.com/in/f%C3%A1bio-casanova-baa818237/" target="_blank">
