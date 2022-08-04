@@ -30,17 +30,17 @@
 
 ## Tecnologias que trabalho:
 
-<code><img height="40" src="https://raw.githubusercontent.com/fabiojcp/pics/main/HTML5.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/fabiojcp/pics/main/css-3-logo-1.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/fabiojcp/pics/main/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/fabiojcp/pics/main/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/fabiojcp/pics/main/material-ui.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/fabiojcp/pics/main/redux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/fabiojcp/pics/main/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/fabiojcp/pics/main/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/fabiojcp/pics/main/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/fabiojcp/pics/main/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/fabiojcp/pics/main/symbole-github-violet.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/fabiojcp/pics/main/elixir.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/fabiojcp/pics/main/Typescript.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/HTML5.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/css-3-logo-1.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/javascript.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/react.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/material-ui.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/redux.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/nodejs.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/python.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/mysql.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/git.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/symbole-github-violet.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/elixir.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/Typescript.png"></code>
 
