@@ -51,6 +51,3 @@
     </td>
    </tr>
 </table>
-## Linguagens frequentes:
-<img height="140" src="https://user-images.githubusercontent.com/98760788/182882485-29fb50be-8aa6-41eb-b73a-a2faa937dc63.png">
-
