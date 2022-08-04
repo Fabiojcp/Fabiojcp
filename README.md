@@ -1,8 +1,8 @@
 ### hey there 
-<a href="https://www.linkedin.com/in/f%C3%A1bio-casanova-baa818237/">
+<a href="https://www.linkedin.com/in/f%C3%A1bio-casanova-baa818237/" target="_blank">
   <img align="left" alt="Fabio LinkedIN" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/linkedin.svg" />
 </a>
-<a href="https://api.whatsapp.com/send?phone=+55+5511930151064&text=Ol%C3%A1!%20Vi%20seu%20portif%C3%B3lio%20na%20internet%20e%20quero%20conhecer%20seus%20servi%C3%A7os">
+<a href="https://api.whatsapp.com/send?phone=+55+5511930151064&text=Ol%C3%A1!%20Vi%20seu%20portif%C3%B3lio%20na%20internet%20e%20quero%20conhecer%20seus%20servi%C3%A7os" target="_blank">
   <img align="left" alt="Fabio WhatsApp" width="22px" color="green" src="https://raw.githubusercontent.com/fabiojcp/pics/main/iconmonstr-whatsapp-1.svg" />
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
