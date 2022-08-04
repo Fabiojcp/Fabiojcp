@@ -23,7 +23,8 @@
 <a href="mailto:fabiojcp88@gmail.com">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/Circle-icons-mail.svg.png" />
 </a>
-</br></br>
+</br>
+</br>
 
 ## Tecnologias que trabalho:
 
