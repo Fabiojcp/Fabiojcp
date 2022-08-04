@@ -28,7 +28,7 @@
 </br>
 </br>
 
-## Tecnologias que trabalho:
+## Tecnologias que trabalho: <img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/tumblr_nmzc9biHny1rhfekio1_500.gif">
 <table style="background-color:#ffffff">
   <tr>
     <td>
