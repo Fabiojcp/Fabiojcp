@@ -10,8 +10,8 @@
 <a href="mailto:fabiojcp88@gmail.com">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/Circle-icons-mail.svg.png" />
 </a>
-</br>
-**languages and tools:**  
+</br></br>
+##Tecnologias que trabalho:
 
 <code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/HTML5.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/css-3-logo-1.png"></code>
@@ -25,4 +25,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/symbole-github-violet.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/elixir.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/fabiojcp/pics/main/Typescript.png"></code>
 
