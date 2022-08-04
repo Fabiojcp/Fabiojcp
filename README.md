@@ -6,7 +6,7 @@
   <img align="left" alt="Fabio WhatsApp" width="22px" color="green" src="https://raw.githubusercontent.com/fabiojcp/pics/main/whatsapp-logo-icone.png" />
 </a>
 <a href="mailto:fabiojcp88@gmail.com">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/Circle-icons-mail.svg.png" />
 </a>
 
 
