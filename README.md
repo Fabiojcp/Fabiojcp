@@ -1,135 +1,70 @@
-<p style="font-size:2.5rem">Hey there!</p>
-  <table>
-    <tr>
-      <td>
-          <p>Olá, tudo bem ? espero que sim. Bem Vindo(a) ao meu Perfil do GitHub, me chamo Fábio, um programador apaixonado por dados e solucionar problemas, atualmente estou buscando  por oportunidades na área da tecnologia.</p>
-          <p>Sou formado em Front-End pela Kenzie Academy Brasil, onde através de um curso de mais de 1.000 horas pude  desenvolver  tanto as Hard/Soft Skills que são  requisitadas pelo mercado de trabalho, atualmente estou dando continuidado nos meus estudos na mesma instituição, mas agora focado no Back-End.</p>
-          <p>Atuo hoje como Monitor na Kenzie, onde ajudo desenvolvedores de outras turmas a desenvolver da  melhor forma suas habilidades. sendo o foco  em HTML, JS, CSS e React.js.</p>
-  </br>
-          <p>Fale comigo:</p>
-          <a href="https://www.linkedin.com/in/f%C3%A1bio-casanova-baa818237/" target="_blank">
-          <img align="left" alt="Fabio LinkedIN" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/linkedin.svg" />
-          </a>
-          <a href="https://api.whatsapp.com/send?phone=+55+5511930151064&text=Ol%C3%A1!%20Vi%20seu%20portif%C3%B3lio%20na%20internet%20e%20quero%20conhecer%20seus%20servi%C3%A7os">
-          <img align="left" alt="Fabio WhatsApp" width="22px" color="green" src="https://raw.githubusercontent.com/fabiojcp/pics/main/whatsapp-logo-icone.png" />
-          </a>
-          <a href="mailto:fabiojcp88@gmail.com">
-          <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/Circle-icons-mail.svg.png" />
-          </a>
-      </td>
-      <td>
-    <img alt="GIF" src="https://raw.githubusercontent.com/fabiojcp/pics/main/code.gif" width="500" height="320" />
-      </td>
-    </tr>
-  </table>
-</br>
+<p align="center" style="color: #504AF2; font-family: Courier New; font-size: 2em; font-weight: 1000; letter-spacing: 0.1em">< Fábio Casanova /></p>
+
+<p align="center">
+<a href="https://linkedin.com/in/fabiojcp"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
+<a href="https://fabiocasanova.dev.br/"><img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
+</p>
+
+<p align="center" style="font-size:1.4rem">Hey there! I'm Fábio Casanova, brazilian programmer</p>
+
+<hr style="background: white"/>
+
+## **About me:**
+
+* Fábio Casanova, 35 years
+* I'm a passionate Full Stack programmer
+
+## **Skills wall:**
+
+<p align="left"><img src="https://img.shields.io/badge/vercel-393359?logo=vercel&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/visual%20studio%20code-4D4577?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/shell%20script-393359?logo=gnu-bash&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/figma-393359?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/express.js-4D4577?logo=express&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/javascript-4D4577?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/typescript-F73C7B?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/reactJS-4D4577?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/react%20native-4D4577?logo=react&
+style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/next.js-4D4577?logo=nextdotjs&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/git-F73C7B?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/css3-F73C7B?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/sass-393359?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/tailwindcss-4D4577?logo=tailwindcss&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/node.js-F73C7B?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/markdown-393359?logo=markdown&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/python-4D4577?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github-393359?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/postgresql-393359?logo=postgresql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/mysql-393359?logo=mysql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/mongodb-393359?logo=mongodb&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github%20actions-F73C7B?logo=github%20actions&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/strapi-4D4577?logo=strapi&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github%20pages-393359?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/npm-4D4577?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/bootstrap-393359?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/styled%20components-4D4577?logo=styled%20components&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/jira-393359?logo=jira&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/docker-F73C7B?logo=docker&style=for-the-badge&logoColor=F2F2F2"/></p>
+
+## **Recent projects:**
+
+<a href="https://github.com/tekoadev/pontoeletronico"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tekoadev&repo=pontoeletronico&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/fabiojcp/amigo_secreto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcp&repo=amigo_secreto&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/fabiojcp/excelStressTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcp&repo=excelStressTest&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/fabiojcp/delivery-lanche"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcp&repo=delivery-lanche&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 
 
+## **You can find me on:**
 
-<p style="font-size:2rem"> Tecnologias que trabalho: </p>
-<table style="background-color:#ffffff" >
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/fabiojcp/pics/main/tumblr_nmzc9biHny1rhfekio1_500.gif">
-    </td>
-    <td>
-      <code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/HTML5.png"></code>
-      <code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/css-3-logo-1.png"></code>
-      <code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/javascript.png"></code>
-      <code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/react.png"></code>
-      <code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/material-ui.png"></code>
-      <code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/redux.png"></code>
-      <code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/nodejs.png"></code>
-      <code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/python.png"></code>
-      <code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/mysql.png"></code>
-      <code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/git.png"></code>
-      <code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/symbole-github-violet.png"></code>
-      <code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/elixir.png"></code>
-      <code><img height="80" src="https://raw.githubusercontent.com/fabiojcp/pics/main/Typescript.png"></code>
-    </td>
-   </tr>
-</table>
-</br>
-<p style="font-size:2rem">Projetos pessoais:</p>
-<table>
-  <tr>
-    <td width="10%">
-          <a href="https://helpers-dun.vercel.app/" target="_blank">
-      <img height="300" src="https://raw.githubusercontent.com/fabiojcp/pics/main/projects/Helpers.jpeg">
-      </a>
-    </td>
-    <td width="40%">
-      <p style="font-size:1.5rem">Projeto Helpers</p>
-      <p>É a idealização, do figma até o produto final de uma plataforma para facilitar o contato entre entidades e apoiadores em campanhas beneficentes</p>
-      <p>Projeto realizado em grupo como projeto final do curso de front-end.<p>
-      <p>Atuei como tech-leader, gerenciando a comunicação entre desenvolvedores, coerencia na lógica e qualidade do código</p>
-      <p>Todo desenvolvido em react, inclui bibliotecas como Styled-Components, Axios, Router DOM, JSON auth e server para a Api, entre outros</p>
-          <a href="https://github.com/fabiojcp/helpers" target="_blank">
-            <img align="left" alt="Helpers Github" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/symbole-github-violet.png" />
-          </a>
-          <a href="https://helpers-dun.vercel.app/" target="_blank">
-            <p>Visualize o projeto<img align="left" alt="Helpers page" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/projects/arrow.png" /></p>
-          </a>
-    </td>
-  </tr>
-    <tr>
-    <td width="10%">
-    <a href="https://react-entrega-s3-kenzieshop-fabiojcp.vercel.app/" target="_blank">
-      <img height="300" src="https://raw.githubusercontent.com/fabiojcp/pics/main/projects/KenzieShop.jpeg">
-      </a>
-    </td>
-    <td width="40%">
-      <p style="font-size:1.5rem">Projeto E-Commerce</p>
-      <p>Este projeto é para criação de um e-commerce com as múltiplas necessidades deste tipo de projeto</p>
-      <p>O projeto é destinado a UX seja completa e estimulante, levando o usuário a finalizar a compra<p>
-      <p>Figma, Estilização, lógica foram todos desenvolvidos por mim para concluir o projeto final</p>
-      <p>Todo desenvolvido em react, inclui bibliotecas como Styled-Components, Axios, Router DOM, Framer Motion (animações), entre outros</p>
-                <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s3-kenzieshop-fabiojcp" target="_blank">
-            <img align="left" alt="Projeto E-Commerce Github" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/symbole-github-violet.png" />
-          </a>
-          <a href="https://react-entrega-s3-kenzieshop-fabiojcp.vercel.app/" target="_blank">
-            <p>Visualize o projeto<img align="left" alt="Projeto E-Commerce page" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/projects/arrow.png" /></p>
-          </a>
-    </td>  
-  </tr>
-  <tr>
-    <td width="10%">
-    <a href="https://react-entrega-s2-kenzie-hub-fabiojcp.vercel.app/" target="_blank">
-      <img height="300" src="https://raw.githubusercontent.com/fabiojcp/pics/main/projects/KenzieHub.jpeg">
-      </a>
-    </td>
-    <td width="40%">
-      <p style="font-size:1.5rem">Kenzie Hub</p>
-      <p>Kenzie Hub é uma plataforma para DEV acompanhar seu desenvolvimetno em tecnologias e linguagens</p>
-      <p>Figma, Estilização, lógica foram todos desenvolvidos por mim para concluir o projeto final</p>
-      <p>Todo desenvolvido em react, inclui bibliotecas como Styled-Components, Axios, Router DOM, Framer Motion (animações), entre outros</p>
-                <a href="https://github.com/fabiojcp/kenzie-hub" target="_blank">
-            <img align="left" alt="Helpers Github" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/symbole-github-violet.png" />
-          </a>
-          <a href="https://react-entrega-s2-kenzie-hub-fabiojcp.vercel.app/" target="_blank">
-            <p>Visualize o projeto<img align="left" alt="Helpers page" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/projects/arrow.png" /></p>
-          </a>
-    </td>  
-  </tr>
-    <tr>
-    <td width="10%">
-    <a href="https://nukenzie-ruby.vercel.app/" target="_blank">
-      <img height="300" src="https://raw.githubusercontent.com/fabiojcp/pics/main/projects/NuKenzie.jpeg">
-      </a>
-    </td>
-    <td width="40%">
-      <p style="font-size:1.5rem">Nukenzie</p>
-      <p>O projeto NuKenzie é uma aplicação para controle financeiro</p>
-      <p>Com alta escalabilidade facilmente este projeto de estudo pode virar uma aplicação adicionando balanços de bolsas e cripto moedas</p>
-      <p>Todo desenvolvido em react, inclui bibliotecas como Styled-Components, Axios, Router DOM, Framer Motion (animações), entre outros</p>
-                <a href="https://github.com/fabiojcp/react-entrega-s1-nu-kenzie-Fabiojcp" target="_blank">
-            <img align="left" alt="Helpers Github" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/symbole-github-violet.png" />
-          </a>
-          <a href="https://nukenzie-ruby.vercel.app/" target="_blank">
-            <p>Visualize o projeto<img align="left" alt="Helpers page" width="22px" src="https://raw.githubusercontent.com/fabiojcp/pics/main/projects/arrow.png" /></p>
-          </a>
-    </td>  
-  </tr>
-  </table>
+*Click to be redirected*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiojcp)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://linkedin.com/in/fabiojcp"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
+<a href="mailto:fabiojcp88@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
+<a href="https://zcal.co/fabiocasanova/"><img src="https://img.shields.io/badge/meet-4D4577?logo=googlemeet&style=for-the-badge&logoColor=F2F2F2"/></a>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/?username=fabiojcp&style=for-the-badge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/>
+</p>
