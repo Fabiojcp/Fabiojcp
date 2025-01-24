@@ -51,7 +51,7 @@ style=for-the-badge&logoColor=F2F2F2"/>
 ## **Recent projects:**
 
 <a href="https://github.com/tekoadev/pontoeletronico"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tekoadev&repo=pontoeletronico&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/fabiojcp/flutter-sorteador-amigo-secreto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcp&repo=amigo_secreto&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/fabiojcp/flutter-sorteador-amigo-secreto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcp&repo=flutter-sorteador-amigo-secreto&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/fabiojcp/excelStressTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcp&repo=excelStressTest&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/fabiojcp/delivery-lanche"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojcp&repo=delivery-lanche&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 
